@@ -10,7 +10,7 @@
     "http-status": "1.3.2",
     "lodash": "4.17.11",
     "mongoose": "5.5.12",
-    "validator": "11.0.0"
+    "validator": "13.7.0"
   },
   "devDependencies": {
     "nodemon": "1.19.1"
